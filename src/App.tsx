@@ -1,11 +1,11 @@
 import AnimatedGradientBg from "./components/AnimatedGradientBg";
-import HeroLottie from "./components/HeroLottie";
+import HeroSection from "./components/HeroSection";
 
 export default function App() {
   return (
     <>
       <AnimatedGradientBg />
-      <HeroLottie />
+      <HeroSection />
     </>
   );
 }
